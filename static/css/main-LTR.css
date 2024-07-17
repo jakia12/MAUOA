@@ -1788,7 +1788,7 @@ body.rounded-btns .read-more {
 }
 @media (max-width: 1199px) {
   .header-basic {
-    background-color: var(--clr-main);
+    background-color: transparent;
   }
   .header-basic .controls-box .header-search-btn {
     color: var(--clr-white);
